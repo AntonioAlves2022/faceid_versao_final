@@ -5,4 +5,5 @@ opencv-python
 mediapipe
 deepface
 bcrypt
+cryptography
 tf-keras
